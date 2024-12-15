@@ -3,10 +3,10 @@
 
 #### Technical Skills: Python, SQL, AWS,Microsoft_Azure, Snowflake, Pytorch,Tableau,PowerBI
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education						       		
+- M.S., Data Science	| Ecole Polytechnique (_Sep. 2023 – Oct. 2024_)
+- Engineering school Degree, Applied Mathematics  |  ENIT-ENSTA Paris (_Sep. 2020 – May 2024_)        		
+- B.S., Math and Physics | Pre-engineering school of Sfax  (_Sep. 2020 – May 2023_)
 
 ## Work Experience
 **Machine learning @ Egencia(American Express Global Business Travel) (_April 2024 - October 2024)**
