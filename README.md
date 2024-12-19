@@ -5,7 +5,7 @@
 
 ## Education						       		
 - M.S., Data Science	| Ecole Polytechnique (_Sep. 2023 – Oct. 2024_)
-- Engineering school Degree, Applied Mathematics  |  ENIT-ENSTA Paris (_Sep. 2020 – May 2024_)        		
+- Engineering School Degree, Applied Mathematics  |  ENIT-ENSTA Paris (_Sep. 2020 – May 2024_)        		
 - B.S., Math and Physics | Pre-engineering school of Sfax  (_Sep. 2020 – May 2023_)
 
 ## Work Experience
