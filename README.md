@@ -32,5 +32,29 @@
 
 
 ## Projects
+**🌳 Optimal Decision Tree Generation Using F-Modeling**
+
+[https://github.com/mehdi-byte/RO]
+
+In the rapidly evolving field of data science and machine learning, building optimal decision trees remains a critical challenge for classification and predictive analysis. This project aimed to generate optimal decision trees using F-modeling, leveraging both univariate and multivariate splits as well as naive and exact data grouping methods.
+
+🎯 Objectives & Approach:
+
+	•	Datasets: Initial testing was conducted on the Iris, Wine, and Seeds datasets. To assess the robustness of the approach, two additional datasets were included:
+	•	Mushroom: A dataset containing 23 species of mushrooms, classified as edible or toxic.
+	•	Dry Bean Seeds: A dataset used for classifying seven types of beans based on 12 dimensions and four shape-related characteristics.
+	•	Methods:
+	•	Data Processing: Implemented two main functions:
+	•	main(): Processes data without prior grouping.
+	•	main-merge(): Processes data with prior grouping based on tree depth (D ∈ {2, 3, 4}).
+	•	Tree Construction: Applied F-modeling to generate optimal decision trees, testing the impact of different tree depths, split types, and grouping strategies.
+
+📊 Key Contributions:
+
+	•	Performance Analysis: Measured computation time and classifier performance relative to datasets, tree depth, split strategy, and grouping method.
+	•	Optimization: Explored advanced optimization techniques, such as grouping innovations, valid inequalities, and refined F-modeling approaches, to enhance computational efficiency and prediction accuracy.
+
+This project provided an opportunity to deepen understanding of optimal decision trees and contributed to the broader field of machine learning by exploring innovative optimization strategies.
+
 
 
