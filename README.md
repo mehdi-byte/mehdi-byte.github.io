@@ -34,27 +34,13 @@
 ## Projects
 **🌳 Optimal Decision Tree Generation Using F-Modeling**
 
-[code_project](https://github.com/mehdi-byte/RO)
+[Code_project](https://github.com/mehdi-byte/RO)
 
-In the rapidly evolving field of data science and machine learning, building optimal decision trees remains a critical challenge for classification and predictive analysis. This project aimed to generate optimal decision trees using F-modeling, leveraging both univariate and multivariate splits as well as naive and exact data grouping methods.
+In the ever-evolving field of data science and machine learning, constructing optimal decision trees is a crucial challenge for classification and predictive analysis. Our project focuses on applying F-modeling to various datasets to generate optimal decision trees. This approach is explored through univariate and multivariate splits, as well as data grouping methods, both naive and exact, using Julia as the programming language.
 
-🎯 Objectives & Approach:
+The project utilizes three initial datasets—Iris, Wine, and Seeds—as testing platforms to evaluate the effectiveness of our modeling. Furthermore, it extends this exploration to two additional datasets of our choice to validate the robustness and adaptability of our methods. The chosen datasets are Mushroom, which contains descriptions of samples corresponding to 23 species of mushrooms from the Agaricus and Lepiota families, classified as either definitely edible, definitely toxic, or of unknown edibility (the latter class being merged with the toxic class), and Dry_bean_seeds, which involves the classification of seven types of beans based on multiple characteristics, including 12 dimensions and 4 shapes.
 
-	•	Datasets: Initial testing was conducted on the Iris, Wine, and Seeds datasets. To assess the robustness of the approach, two additional datasets were included:
-	•	Mushroom: A dataset containing 23 species of mushrooms, classified as edible or toxic.
-	•	Dry Bean Seeds: A dataset used for classifying seven types of beans based on 12 dimensions and four shape-related characteristics.
-	•	Methods:
-	•	Data Processing: Implemented two main functions:
-	•	main(): Processes data without prior grouping.
-	•	main-merge(): Processes data with prior grouping based on tree depth (D ∈ {2, 3, 4}).
-	•	Tree Construction: Applied F-modeling to generate optimal decision trees, testing the impact of different tree depths, split types, and grouping strategies.
-
-📊 Key Contributions:
-
-	•	Performance Analysis: Measured computation time and classifier performance relative to datasets, tree depth, split strategy, and grouping method.
-	•	Optimization: Explored advanced optimization techniques, such as grouping innovations, valid inequalities, and refined F-modeling approaches, to enhance computational efficiency and prediction accuracy.
-
-This project provided an opportunity to deepen understanding of optimal decision trees and contributed to the broader field of machine learning by exploring innovative optimization strategies.
+By incorporating valid inequalities and spectral clustering, we improved the final optimal trees for the Iris, Wine, and Seeds datasets. However, we were not able to replicate the same results with the Mushroom dataset, which reveals that there is always room for further improvement.
 
 
 
