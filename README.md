@@ -43,7 +43,9 @@ The project utilizes three initial datasets—Iris, Wine, and Seeds—as testing
 By incorporating valid inequalities and spectral clustering, we improved the final optimal trees for the Iris, Wine, and Seeds datasets. However, we were not able to replicate the same results with the Mushroom dataset, which reveals that there is always room for further improvement.
 
 **⚽️Tracking Football Players👁️**
+
 [Code_project](https://github.com/mehdi-byte/football_analysis_project)
+
 This project focuses on the tracking of football players using advanced computer vision techniques, including Optical Flow and YOLO (You Only Look Once), to accurately track players’ movements across the field. The tracking data is then leveraged to extract key performance metrics, offering valuable insights into player behavior and team dynamics. To enhance the analysis, the project incorporates clustering algorithms, specifically KMeans, to identify and differentiate players based on team affiliations, ensuring precise classification. This combination of real-time tracking and data-driven analysis provides a comprehensive framework for performance evaluation and tactical insights in football.
 
 
