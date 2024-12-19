@@ -36,7 +36,7 @@
 
 [Code_project](https://github.com/mehdi-byte/RO)
 
-In the ever-evolving field of data science and machine learning, constructing optimal decision trees is a crucial challenge for classification and predictive analysis. Our project focuses on applying F-modeling to various datasets to generate optimal decision trees. This approach is explored through univariate and multivariate splits, as well as data grouping methods, both naive and exact, using Julia as the programming language.
+In the ever-evolving field of data science and machine learning, constructing optimal decision trees is a crucial challenge for classification and predictive analysis. Our project focuses on applying F-modeling to various datasets to generate optimal decision trees. This approach is explored through univariate and multivariate splits, as well as data grouping methods, both naive and exact, using **Julia** as the programming language.
 
 The project utilizes three initial datasets—Iris, Wine, and Seeds—as testing platforms to evaluate the effectiveness of our modeling. Furthermore, it extends this exploration to two additional datasets of our choice to validate the robustness and adaptability of our methods. The chosen datasets are Mushroom, which contains descriptions of samples corresponding to 23 species of mushrooms from the Agaricus and Lepiota families, classified as either definitely edible, definitely toxic, or of unknown edibility (the latter class being merged with the toxic class), and Dry_bean_seeds, which involves the classification of seven types of beans based on multiple characteristics, including 12 dimensions and 4 shapes.
 
