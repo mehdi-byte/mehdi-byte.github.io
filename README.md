@@ -34,7 +34,7 @@
 ## Projects
 **🌳 Optimal Decision Tree Generation Using F-Modeling**
 
-[https://github.com/mehdi-byte/RO]
+[code_project](https://github.com/mehdi-byte/RO)
 
 In the rapidly evolving field of data science and machine learning, building optimal decision trees remains a critical challenge for classification and predictive analysis. This project aimed to generate optimal decision trees using F-modeling, leveraging both univariate and multivariate splits as well as naive and exact data grouping methods.
 
